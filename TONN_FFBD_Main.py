@@ -10,12 +10,10 @@ Original file is located at
 # ============================================================
 # TONN-FF with Physical Length-Scale Control
 #
-# Clean version:
-# 1. Single Config source of truth
-# 2. Bounded disk Fourier sampling only
-# 3. Physical coordinate domain
-# 4. High-resolution local thickness verification
-# 5. Critical circle overlay
+# 1. Bounded disk Fourier sampling only
+# 2. Physical coordinate domain
+# 3. High-resolution local thickness verification
+# 4. Critical circle overlay for lengthscale verification
 # ============================================================
 
 from dataclasses import dataclass
